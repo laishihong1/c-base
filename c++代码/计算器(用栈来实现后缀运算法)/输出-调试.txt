@@ -1,0 +1,14 @@
+﻿“计算器(用栈来实现后缀运算法).exe”(Win32): 已加载“E:\c++代码\计算器(用栈来实现后缀运算法)\Debug\计算器(用栈来实现后缀运算法).exe”。已加载符号。
+“计算器(用栈来实现后缀运算法).exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。
+“计算器(用栈来实现后缀运算法).exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。
+“计算器(用栈来实现后缀运算法).exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。
+“计算器(用栈来实现后缀运算法).exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。
+“计算器(用栈来实现后缀运算法).exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。
+“计算器(用栈来实现后缀运算法).exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。
+线程 0x2600 已退出，返回值为 0 (0x0)。
+“计算器(用栈来实现后缀运算法).exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。
+“计算器(用栈来实现后缀运算法).exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。
+“计算器(用栈来实现后缀运算法).exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。
+线程 0x1bf0 已退出，返回值为 0 (0x0)。
+线程 0x51fc 已退出，返回值为 0 (0x0)。
+程序“[1532] 计算器(用栈来实现后缀运算法).exe”已退出，返回值为 0 (0x0)。

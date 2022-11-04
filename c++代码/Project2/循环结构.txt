@@ -1,0 +1,14 @@
+﻿“Project2.exe”(Win32): 已加载“E:\c++代码\Project2\Debug\Project2.exe”。已加载符号。
+“Project2.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。
+线程 0x3818 已退出，返回值为 0 (0x0)。
+“Project2.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。
+“Project2.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。
+线程 0xf0c 已退出，返回值为 0 (0x0)。
+线程 0x1d74 已退出，返回值为 0 (0x0)。
+程序“[19716] Project2.exe”已退出，返回值为 0 (0x0)。

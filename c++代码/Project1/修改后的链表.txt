@@ -1,0 +1,14 @@
+﻿“Project1.exe”(Win32): 已加载“E:\c++代码\Project1\Debug\Project1.exe”。已加载符号。
+“Project1.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。
+“Project1.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。
+“Project1.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。
+“Project1.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。
+“Project1.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。
+“Project1.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。
+线程 0x3cb4 已退出，返回值为 0 (0x0)。
+“Project1.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。
+“Project1.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。
+“Project1.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。
+线程 0x5740 已退出，返回值为 0 (0x0)。
+线程 0x2404 已退出，返回值为 0 (0x0)。
+程序“[19356] Project1.exe”已退出，返回值为 0 (0x0)。

@@ -1,0 +1,3 @@
+﻿  源.cpp
+E:\c++代码\队列(单链型)\源.cpp(81): warning C4715: “Queue<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::pop”: 不是所有的控件路径都返回值
+  队列(单链型).vcxproj -> E:\c++代码\队列(单链型)\Debug\队列(单链型).exe

@@ -1,0 +1,78 @@
+﻿  01 map容器_构造和赋值.cpp
+  02 map容器_大小和交换.cpp
+  03 map容器_插入和删除.cpp
+  04 map容器_查找和统计.cpp
+  05 map容器_排序.cpp
+E:\c++\VC\Tools\MSVC\14.29.30133\include\xutility(1516,1): error C3848: 具有类型“const MyCompare”的表达式会丢失一些 const-volatile 限定符以调用“bool MyCompare::operator ()(int,int)”
+E:\c++\VC\Tools\MSVC\14.29.30133\include\xutility(1515): message : 查看对正在编译的函数 模板 实例化“bool std::_Debug_lt_pred<const MyCompare&,const _Kty&,const _Keyty&,0>(_Pr,_Ty1,_Ty2) noexcept(<expr>)”的引用
+          with
+          [
+              _Kty=int,
+              _Keyty=int,
+              _Pr=const MyCompare &,
+              _Ty1=const int &,
+              _Ty2=const int &
+          ]
+E:\c++\VC\Tools\MSVC\14.29.30133\include\xtree(1007): message : 查看对正在编译的函数 模板 实例化“std::_Tree_find_result<std::_Tree_node<std::pair<const int,int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Find_lower_bound<_Key>(const _Keyty &) const”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Kty=int,
+              _Ty=int,
+              _Pr=MyCompare,
+              _Key=int,
+              _Keyty=int
+          ]
+E:\c++\VC\Tools\MSVC\14.29.30133\include\xtree(1014): message : 查看对正在编译的函数 模板 实例化“std::_Tree_find_result<std::_Tree_node<std::pair<const int,int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Find_lower_bound<_Key>(const _Keyty &) const”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Kty=int,
+              _Ty=int,
+              _Pr=MyCompare,
+              _Key=int,
+              _Keyty=int
+          ]
+E:\c++\VC\Tools\MSVC\14.29.30133\include\xtree(1044): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_node<std::pair<const int,int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Emplace<std::pair<int,int>>(std::pair<int,int> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Kty=int,
+              _Ty=int,
+              _Pr=MyCompare
+          ]
+E:\c++\VC\Tools\MSVC\14.29.30133\include\xtree(1045): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_node<std::pair<const int,int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Emplace<std::pair<int,int>>(std::pair<int,int> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Kty=int,
+              _Ty=int,
+              _Pr=MyCompare
+          ]
+E:\c++\VC\Tools\MSVC\14.29.30133\include\map(165): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,int>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::emplace<std::pair<int,int>>(std::pair<int,int> &&)”的引用
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Pr=MyCompare,
+              _Alloc=std::allocator<std::pair<const int,int>>
+          ]
+E:\c++\VC\Tools\MSVC\14.29.30133\include\map(165): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,int>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::emplace<std::pair<int,int>>(std::pair<int,int> &&)”的引用
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Pr=MyCompare,
+              _Alloc=std::allocator<std::pair<const int,int>>
+          ]
+D:\C++\STL使用\第三阶段-录制代码\01 map容器\map容器\05 map容器_排序.cpp(20): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,int>>>>,bool> std::map<int,int,MyCompare,std::allocator<std::pair<const int,int>>>::insert<std::pair<int,int>,0>(_Valty &&)”的引用
+          with
+          [
+              _Valty=std::pair<int,int>
+          ]
+D:\C++\STL使用\第三阶段-录制代码\01 map容器\map容器\05 map容器_排序.cpp(20): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,int>>>>,bool> std::map<int,int,MyCompare,std::allocator<std::pair<const int,int>>>::insert<std::pair<int,int>,0>(_Valty &&)”的引用
+          with
+          [
+              _Valty=std::pair<int,int>
+          ]
+  正在生成代码...
